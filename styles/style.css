@@ -9,6 +9,9 @@ h1 {
 }
 
 #index-links {
-    list-style-type: none;
     font-size: 35px;
+}
+
+ul {
+    list-style-position: inside;
 }
