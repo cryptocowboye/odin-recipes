@@ -12,6 +12,6 @@ h1 {
     font-size: 35px;
 }
 
-ul {
+ol, ul {
     list-style-position: inside;
 }
