@@ -36,3 +36,11 @@ img {
     color: lightcoral;
     padding: 5px;
 }
+
+.tidy-list-container {
+    background-color: white;
+    width: 325px;
+    height: auto;
+    border: 2px solid lightgray;
+    margin: 15px auto;
+}
