@@ -30,3 +30,9 @@ img {
     display: inline-block;
     text-align: left;
 }
+
+.h1-container {
+    background-color: black;
+    color: lightcoral;
+    padding: 5px;
+}
